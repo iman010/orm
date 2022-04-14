@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWE3.Demo", "SWE3.Demo\SWE3.Demo.csproj", "{166FAB6A-5EA4-4A15-A82C-675066F3DE41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWE3.ORM.Tests", "SWE3.ORM.Tests\SWE3.ORM.Tests.csproj", "{BED3757C-FC53-4DC1-8814-21AFF6CEFC90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{166FAB6A-5EA4-4A15-A82C-675066F3DE41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166FAB6A-5EA4-4A15-A82C-675066F3DE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166FAB6A-5EA4-4A15-A82C-675066F3DE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166FAB6A-5EA4-4A15-A82C-675066F3DE41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BED3757C-FC53-4DC1-8814-21AFF6CEFC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED3757C-FC53-4DC1-8814-21AFF6CEFC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED3757C-FC53-4DC1-8814-21AFF6CEFC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED3757C-FC53-4DC1-8814-21AFF6CEFC90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3568A3F5-8F39-43CF-BAF1-0A26145EAB60}
+	EndGlobalSection
+EndGlobal

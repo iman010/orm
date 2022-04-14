@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SWE3.Demo.FluentApi.BaseQuery&lt;TSelect&gt;">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAgAAAAAAAQ=</HashCode>
+      <FileName>FluentApi\BaseQuery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SWE3.Demo.FluentApi.RootQuery&lt;T&gt;">
+    <Position X="0.5" Y="3" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAEAACAAAIAAQAAAAAA=</HashCode>
+      <FileName>FluentApi\RootQuery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
